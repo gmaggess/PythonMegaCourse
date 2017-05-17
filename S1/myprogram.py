@@ -1,2 +1,2 @@
-_greeting = input("Write a greeting: ")
-print(_greeting)
+c = 'George'
+print(c[::-1])
